@@ -1,0 +1,28 @@
+name: pt
+favicon: null
+layout_spectrum: 0.4542166395112872
+typography_spectrum: 0.4215653573628515
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7537690028548241
+  lightness: 0.5696252889465541
+  saturation: 0.2864196600858122
+  rhythmicContrast: 0.0834195592906326
+purpose: []
